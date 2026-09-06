@@ -17,3 +17,10 @@
 - Calculator
 - Number Guessing Game
 - Temperature Converter
+  
+## Hobbies & Extracurriculars
+
+1. Programming
+   - [x] Learn C programming
+   - [ ] Learn C++
+2. Football
